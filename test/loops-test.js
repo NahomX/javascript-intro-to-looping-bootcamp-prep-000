@@ -1,3 +1,20 @@
+var i;
+function forLoop(){
+  for (let i=0;i<25;i++)
+  if (i=1){
+  console.log('I am'i 'strange loop')
+  if (i=!1){
+    console.log('I am'${i} 'strange loops')
+   
+  }
+}
+function whileLoop(Number){
+  while (countdown>0){
+    console.log(--countdown)
+  }
+  return 'done' 
+}
+
 /*global describe, it*/
 
 const chai = require('chai')
